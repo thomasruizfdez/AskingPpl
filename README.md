@@ -1,2 +1,3 @@
 # AskingPpl
-Microservicio para obtener la opinión de personas en varios ámbitos.
+## Descripción
+Este microservicio pretende recoger la opinón de personas sobre varias cuestiones de interés.
