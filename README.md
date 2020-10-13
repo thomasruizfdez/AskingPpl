@@ -4,10 +4,10 @@ Hoy en día la población tiende a dividirse sobre ciertas cuestiones sociopolí
 Este microservicio gestiona la información sobre opiniones de estas cuestiones sociopolíticas, es decir, las propias cuestiones, votos, comentarios y la información sobre los usuarios. Creando así un reflejo o análisis de la opinión de la población.  
 
 ## herramientas :hammer:  
-[Herramientas](https://github.com/thomasruizfdez/AskingPpl/docs/Herramientas.md)  
+[Herramientas](https://github.com/thomasruizfdez/AskingPpl/blob/master/docs/Herramientas.md)  
 
 ## Pasos seguidos en el proyecto  :walking:
-[Pasos Seguidos](https://github.com/thomasruizfdez/AskingPpl/docs/PasosSeguidos.md)
+[Pasos Seguidos](https://github.com/thomasruizfdez/AskingPpl/blob/master/docs/PasosSeguidos.md) 
 
 ## Licencia  
 [GNU General Public License v3.0](https://github.com/thomasruizfdez/AskingPpl/blob/master/LICENSE)  
