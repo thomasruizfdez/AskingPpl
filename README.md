@@ -7,8 +7,9 @@ Este microservicio gestiona la información sobre opiniones de estas cuestiones 
 [Herramientas](https://github.com/thomasruizfdez/AskingPpl/blob/master/docs/Herramientas.md)  
 
 ## Pasos seguidos en el proyecto  :walking:
-[Pasos Seguidos](https://github.com/thomasruizfdez/AskingPpl/blob/master/docs/PasosSeguidos.md) 
-[Historias de usuario](https://github.com/thomasruizfdez/AskingPpl/labels/user-stories)
+[Pasos Seguidos](https://github.com/thomasruizfdez/AskingPpl/blob/master/docs/PasosSeguidos.md)
+
+[Historias de usuario](https://github.com/thomasruizfdez/AskingPpl/labels/user-stories) 
 
 ## Licencia  
 [GNU General Public License v3.0](https://github.com/thomasruizfdez/AskingPpl/blob/master/LICENSE)  
