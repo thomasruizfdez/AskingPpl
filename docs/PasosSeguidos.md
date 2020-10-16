@@ -8,10 +8,11 @@
 - Escoger Licencia  
 - Configurar perfil de Github  
 
-## Hito 1  
+## Hito 1 [(Milestone)](https://github.com/thomasruizfdez/AskingPpl/milestone/1)  
 - Utilizar issues y milestones para seguir el progreso del proyecto  
-- Describir el proyecto
-- Crear la documentación  
-- Elegir las herramientas que se utilizarán
+- [Describir el proyecto](https://github.com/thomasruizfdez/AskingPpl/issues/1)
+- [Crear la documentación](https://github.com/thomasruizfdez/AskingPpl/issues/2)  
+- [Elegir las herramientas que se utilizarán](https://github.com/thomasruizfdez/AskingPpl/issues/3)
 - Avanzar en código utilizando las mejores prácticas según el lenguaje elegido  
-- Crear archivo iv.yaml  
+- [Crear archivo iv.yaml](https://github.com/thomasruizfdez/AskingPpl/issues/4)
+ 
