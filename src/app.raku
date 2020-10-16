@@ -1,10 +1,12 @@
-use lib <./lib>;
-use Cuestion;
+use lib 'lib';
+use cuestion;
 
+# Crear cuestión con una pregunta.
 my $cuestion = Cuestion.new(:pregunta("Te gusta Raku?"));
 
-$cuestion.aniadir_voto_si;
-$cuestion.aniadir_voto_no;
+say $cuestion.get_pregunta;
 
-$cuestion.di_pregunta;
-$cuestion.votos;
+# Editar pregunta
+$cuestion.editar_pregunta("Te gusta JS?");
+
+say $cuestion.get_pregunta;
